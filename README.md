@@ -4,4 +4,4 @@ This plugin sets NSCameraUsageDescription and NSPhotoLibraryUsageDescription to 
 
 ## Installation
 
-`$ cordova plugin add https://github.com/januslo/cordova-plugin-ios-camera-usage-desc.git`
+`$ cordova plugin add https://github.com/pdsullivan/cordova-plugin-ios-camera-usage-desc.git`
