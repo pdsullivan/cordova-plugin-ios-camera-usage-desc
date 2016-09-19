@@ -9,10 +9,10 @@
     <!-- ios -->
     <platform name="ios">
       <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
-        <string>我们需要访问您的相机来获取图片</string>
+        <string>This app uses the camera to take pictures of things.</string>
       </config-file>
       <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
-        <string>我们需要访问您的相册来获取图片</string>
+        <string>This app uses the photos to upload.</string>
       </config-file>
     </platform>
 </plugin>
